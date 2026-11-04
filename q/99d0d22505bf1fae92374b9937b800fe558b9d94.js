@@ -1,1 +1,1 @@
-export default {"v":2,"t":"pOY87TWCo9yWCYFc0_kHn5wW4bz45u9ZPV9Q3TxadWr7yW4Ky-TRIwEdNu_BNlGl84bZu4Wryp_Xr88j41i3w3zKc3O9akrxx9if3xcNm7EkZ4DO3By0EOo_yd8g9KOLYNBF0vVrOe_GhDlZi52Me0edeecvS579ibkCpwJS8pw-l-0Y2XDDnzdQjHUt16yMEwX-YlvdMAubKAFbdCL77bsDRR2pjjcDug5i3ZXJH2rXLs3Qs7C8ggeLAjUvkxGJvM8nxXWT5ukH2gLEEi_4gHo83b5VeBcKbO0LIzbJFwC1VjxuoBM"};
+export default {"v":2,"r":1};
